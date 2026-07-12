@@ -7,7 +7,7 @@ Welcome to the progress tracker for Sega Channel Plus. It's also the progress tr
 - [x] "Record" functionality (saving games for later play)
 - [x] Allow for custom servers
 - [ ] Server management software (SMS)
-- [ ] Controller remapping and auto-remapping for common/USB Sega controllers (Genesis Mini 3/6-button, Retro-bit, etc.) [Started]
+- [x] Controller remapping and auto-remapping for common/USB Sega controllers (Genesis Mini 3/6-button, Retro-bit, etc.)
 
 ### Spooky Scary Wishlist
 - [ ] Send downloaded data to a real Genesis via Mega Everdrive USB connection
