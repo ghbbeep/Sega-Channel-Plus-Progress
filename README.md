@@ -3,7 +3,7 @@ Welcome to the progress tracker for Sega Channel Plus. It's also the progress tr
 
 ### Base features
 - [x] Download games (Genesis, Sega CD, 32X)
-- [ ] Download menu data (Submenus, graphics) [Half-finished]
+- [ ] ~~Download menu data (Submenus, graphics)~~ [Scrapped in favor of bundling graphics assets with client updates]
 - [x] "Record" functionality (saving games for later play)
 - [x] Allow for custom servers
 - [ ] Server management software (SMS)
